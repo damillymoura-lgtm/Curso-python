@@ -1,1 +1,2 @@
-git config --global user.name "Damilly"
+with open("notas.txt", "a") as arquivo:
+    arquivo.write("3. Viajar pelo mundo\n")
